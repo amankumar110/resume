@@ -1,0 +1,29 @@
+body{
+    background-color: lightslategray;
+}
+.a{
+    width: 200px;
+    float: left;
+    margin: 30px;
+     border-radius: 50%;
+}
+.name{
+    text-align: center;
+}
+.p1{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.h1{
+    font-size: 40px;
+}
+td,table,tr,th{
+    border: 3px solid;
+    border-collapse: collapse;
+    width: 100%;
+    background-color: lightblue;
+}
+.v{
+    color: rgb(54, 4, 112);
+    font-size: 28px;
+}
